@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 1 one
 2 two
 3 three
 4 go
 exit
+=======
+1. step 1
+2. step 2
+3. step 3
+...
+finish
+>>>>>>> ce9b7d3173e284a3703fe816d7e1cfa9b82f2781
